@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#d3fd02"           # Verde neón para selectores y acentos
+backgroundColor = "#0B132B"        # Azul oscuro base
+secondaryBackgroundColor = "#050A15" # Azul casi negro para la sidebar
+textColor = "#FFFFFF"              # Texto en blanco para contraste
+font = "monospace"
